@@ -16,5 +16,5 @@ In this repo, I'm going to implement some linear algebra,convolution optimizatio
 ...
 
 ## References
-[vilib](https://github.com/uzh-rpg/vilib)
+[vilib](https://github.com/uzh-rpg/vilib)\
 [cuda-samples](https://github.com/NVIDIA/cuda-samples)
